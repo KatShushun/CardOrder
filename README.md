@@ -1,1 +1,1 @@
-[![Статус сборки](https://ci.appveyor.com/api/projects/status/w0xnnxphskd5dpmd?svg=true)](https://ci.appveyor.com/project/KatShushun/cardorder)
+[![Build status](https://ci.appveyor.com/api/projects/status/hmprd4t4lrtxctop?svg=true)](https://ci.appveyor.com/project/KatShushun/cardorder-1ev2c)
