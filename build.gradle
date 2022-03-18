@@ -19,7 +19,7 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.6.1'
 //    testImplementation 'com.codeborne:selenide:5.19.0' // селенид
     implementation 'org.seleniumhq.selenium:selenium-java:3.141.59' // селениум
-    testImplementation("io.github.bonigarcia:webdrivermanager:5.0.3") // менеджер выбора драйвера для ОС (драйвер в
+    testImplementation("io.github.bonigarcia:webdrivermanager:5.1.0") // менеджер выбора драйвера для ОС (драйвер в
     // корне не нужен с этим менеджером)
 }
 
